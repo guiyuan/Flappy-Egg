@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BirdMove.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BirdMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CylinderMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Collision.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Boundary.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Score.cs" Line="1" Column="1" />
+      <File FileName="../../Survival Shooter/Survival Shooter/Assets/Scripts/Managers/ScoreManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Scripts" expanded="True">
+              <Node name="BirdMove.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
